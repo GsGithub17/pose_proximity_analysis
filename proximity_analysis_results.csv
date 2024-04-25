@@ -1,0 +1,9 @@
+Ligand,Chain,Residue_Name,Residue_ID,within_3A,within_5A,within_7A,within_9A,within_11A
+6yll_C_OYB.pdb,A,MET,111,False,False,True,True,True
+6yll_C_OYB.pdb,A,GLU,109,False,False,False,False,True
+6yll_C_OYB.pdb,A,ALA,47,False,False,False,True,True
+6yll_C_OYB.pdb,A,PHE,159,False,False,True,True,True
+6yll_C_OYB.pdb,A,LEU,26,False,False,True,True,True
+6yll_C_OYB.pdb,A,THR,113,False,False,False,True,True
+6yll_C_OYB.pdb,B,ASP,164,False,False,False,True,True
+6yll_C_OYB.pdb,B,GLU,163,False,False,False,False,True

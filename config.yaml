@@ -1,0 +1,4 @@
+protein_pdb_path: 'path/to/target.pdb'
+ligand_pdb_path: 'path/to/ligand.pdb'
+key_residues: ['A_MET111','A_GLU109','A_ALA47','A_PHE159','A_LEU26','A_THR113','B_ASP164','B_GLU163']
+cutoff_radii: [3, 5, 7, 9, 11]
