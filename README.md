@@ -20,8 +20,9 @@ You can install these packages using pip:
 
 ```bash
 pip install numpy biopython pyyaml
-
-## Prerequisites
+```
+## Usage
 
 ```bash
 python poseproximity.py
+```
