@@ -49,7 +49,7 @@ def proximity_analysis(config_file):
     model_protein = structure_protein[0]  # Assuming the protein has only one model
 
     results = []
-
+    #getting chain id, residue id, and residue number, calculateing distances to each residue, and determining if withn cutoff radius
     for key_residue in key_residues:
         chain_id, resname, resnum = parse_residue_id(key_residue)
         chain = model_protein[chain_id]
